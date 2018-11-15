@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DragDropHelper.cs](./CS/WindowsFormsApplication19/DragDropHelper.cs) (VB: [DragDropHelper.vb](./VB/WindowsFormsApplication19/DragDropHelper.vb))
+* [Form1.cs](./CS/WindowsFormsApplication19/Form1.cs) (VB: [Form1.cs](./VB/WindowsFormsApplication19/Form1.cs))
+* [Program.cs](./CS/WindowsFormsApplication19/Program.cs) (VB: [Program.cs](./VB/WindowsFormsApplication19/Program.cs))
+<!-- default file list end -->
 # How to drag and drop an item from one standalone GalleryControl to another one
 
 
