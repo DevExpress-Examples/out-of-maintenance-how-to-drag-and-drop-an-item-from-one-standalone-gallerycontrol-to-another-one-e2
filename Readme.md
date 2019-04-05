@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [DragDropHelper.cs](./CS/WindowsFormsApplication19/DragDropHelper.cs) (VB: [DragDropHelper.cs](./VB/WindowsFormsApplication19/DragDropHelper.cs))
+* [DragDropHelper.cs](./CS/WindowsFormsApplication19/DragDropHelper.cs) (VB: [DragDropHelper.vb](./VB/WindowsFormsApplication19/DragDropHelper.vb))
 * [Form1.cs](./CS/WindowsFormsApplication19/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication19/Form1.vb))
 * [Program.cs](./CS/WindowsFormsApplication19/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication19/Program.vb))
 <!-- default file list end -->
